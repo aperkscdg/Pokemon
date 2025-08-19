@@ -9,7 +9,7 @@ def menu():
         print("Ver Inventario (1): ")
         Menu = int(input("Seleciones Una Opcion: "))
         if Menu==0:
-            return "Sex"
+            return Pokemon_Game.game()
         elif Menu==1:
             return Pokemon_Inventario.Inventario()
         else:
