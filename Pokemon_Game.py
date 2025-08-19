@@ -14,7 +14,7 @@ def game(menu,mi_jugador):
     def nuevo(pokemon_nuevo):
         stats = next((p for p in pokemon_data if p["nombre"] == pokemon_nuevo), None)
         os.system("cls")
-        if random.randint(0,100) <= 100:
+        if random.randint(0,100) <= 5:
             shiny = stats.copy()
             shiny["nombre"] += " ⭐"
             shiny["calidad"] = "shiny"
@@ -69,8 +69,36 @@ def game(menu,mi_jugador):
                         time.sleep(0.1)
                         cantidad += 1
                         if cantidad == Max:
-                            nuevo(pokemon_nuevo)
-                            break
+                            if uso_pokebolas=="Pokeball Normal":
+                                if random.randint(0,100) <= 40:
+                                    nuevo(pokemon_nuevo)
+                                    break
+                                else:
+                                    os.system("cls")
+                                    print("Se te escapo Un:", pokemon_nuevo)
+                                    time.sleep(2)
+                                    menu()
+                            elif uso_pokebolas=="Greatball":
+                                if random.randint(0,100) <= 55:
+                                    nuevo(pokemon_nuevo)
+                                    break
+                                else:
+                                    os.system("cls")
+                                    print("Se te escapo Un:", pokemon_nuevo)
+                                    time.sleep(2)
+                                    menu()
+                            elif uso_pokebolas=="Ultraball":
+                                if random.randint(0,100) <= 70:
+                                    nuevo(pokemon_nuevo)
+                                    break
+                                else:
+                                    os.system("cls")
+                                    print("Se te escapo Un:", pokemon_nuevo)
+                                    time.sleep(2)
+                                    menu()
+                            elif uso_pokebolas=="Masterball":
+                                nuevo(pokemon_nuevo)
+                                break
                 else:
                     print("ACABAS DE PONER OTRA COSA???????")
     ruleta()
