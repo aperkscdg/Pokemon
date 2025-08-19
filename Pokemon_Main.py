@@ -1,7 +1,12 @@
-import Pokemon_Game
-import Pokemon_Inventario
+from Pokemon_Game import game
+from Pokemon_Inventario import Jugador 
+
 import os
 import time
+
+
+mi_jugador = Jugador()
+
 def menu():
     while True:
         os.system("cls")
@@ -9,9 +14,9 @@ def menu():
         print("Ver Inventario (1): ")
         Menu = int(input("Seleciones Una Opcion: "))
         if Menu==0:
-            return Pokemon_Game.game()
+            return game(menu,mi_jugador)
         elif Menu==1:
-            return Pokemon_Inventario.Inventario()
+            return Jugador.mostrar_inventario(mi_jugador)
         else:
             print("no se puede we: ")
             time.sleep(1)

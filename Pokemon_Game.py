@@ -1,8 +1,7 @@
 import os 
 import time
-import Pokemon_Inventario
 import random
-
+from Pokemon_Inventario import Jugador
 pokemon_list = [
     "Bulbasaur", "Ivysaur", "Venusaur", "Charmander", "Charmeleon", "Charizard",
     "Squirtle", "Wartortle", "Blastoise", "Caterpie", "Metapod", "Butterfree",
@@ -31,13 +30,21 @@ pokemon_list = [
     "Zapdos", "Moltres", "Dratini", "Dragonair", "Dragonite", "Mewtwo", "Mew"
 ]
 
-def game():
+#mi_jugador = Jugador()
+
+def game(menu,mi_jugador):
     def nuevo(pokemon_nuevo):
         os.system("cls")
         if random.randint(0,100) <= 5:
-            return print("Ahora tienes Un:", pokemon_nuevo + " " + "(Shiny)")
+            mi_jugador.agregar_pokemon(pokemon_nuevo + " " + "(Shiny)")
+            print("Ahora tienes Un:", pokemon_nuevo + " " + "(Shiny)")
+            time.sleep(2)
+            menu()
         else:
-            return print("Ahora Tienes Un: ", pokemon_nuevo)
+            mi_jugador.agregar_pokemon(pokemon_nuevo)
+            print("Ahora Tienes Un: ", pokemon_nuevo)
+            time.sleep(2)
+            menu()
     def ruleta():
         os.system("cls")
         cantidad = 0
@@ -49,6 +56,6 @@ def game():
             time.sleep(0.1)
             cantidad+=1
             if cantidad == Max:
-                return pokemon_nuevo and nuevo(pokemon_nuevo)
-    os.system("cls")
+                nuevo(pokemon_nuevo)
+                break
     ruleta()
