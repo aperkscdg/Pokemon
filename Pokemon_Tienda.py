@@ -14,6 +14,7 @@ def tienda(menu,mi_jugador):
         print("Comprar Ultraball: $50 (2)")
         print("Comprar Masterball: $100 (3)")
         print("Mas Opciones (4): ")
+        print("Salir de La tienda (5): ")
         respuesta = int(input("Que vas A hacer?: "))
         if respuesta==0:
             if dinero >=5:
@@ -68,25 +69,31 @@ def tienda(menu,mi_jugador):
                     continue
         elif respuesta==4 and paginas==0:
             paginas=1
-            break
+            while paginas==1:
+                os.system("cls")
+                mi_jugador.imprimir_dinero()
+                print("Vender Pokemones: (0) ")
+                print("Comprar Cajas Misteriosas $200 (1)")
+                print("Salir de Aqui (2): ")
+                respuesta = int(input("Que vas A hacer?: "))
+                if respuesta==0:
+                    return print("vende")
+                elif respuesta==1:
+                    if dinero >=200:
+                        print("Caja Comprada")
+                        input("Continuar")
+                        continue
+                    else:
+                        print("No tienes Dinero Para Este Item")
+                        input("Continuar")
+                        continue
+                elif respuesta==2:
+                    paginas=0
+                    break
+        elif respuesta==5:
+            menu()
         else:
             print("Opción inválida. Intenta de nuevo.")
             input("Continuar")
             continue
-    while paginas==1:
-        os.system("cls")
-        mi_jugador.imprimir_dinero()
-        print("Vender Pokemones: (0) ")
-        print("Comprar Cajas Misteriosas $200 (1)")
-        respuesta = int(input("Que vas A hacer?: "))
-        if respuesta==0:
-            return print("vende")
-        elif respuesta==1:
-            if dinero >=200:
-                print("Caja Comprada")
-                input("Continuar")
-                continue
-            else:
-                print("No tienes Dinero Para Este Item")
-                input("Continuar")
-                continue
+    

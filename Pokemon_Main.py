@@ -1,10 +1,12 @@
 from Pokemon_Game import game
 from Pokemon_Inventario import Jugador 
 from Pokemon_Tienda import tienda
+from Pokemon import Pokemon
 import os
 import time
 mi_jugador = Jugador()
 mi_jugador.cargar()
+all_pokemones = Pokemon()
 def menu():
     while True:
         os.system("cls")

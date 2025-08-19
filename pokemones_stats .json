@@ -1,0 +1,1210 @@
+[
+    {
+        "nombre": "Bulbasaur",
+        "calidad": "",
+        "vida": 50,
+        "daño": 5,
+        "defensa": 2,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Ivysaur",
+        "calidad": "",
+        "vida": 60,
+        "daño": 8,
+        "defensa": 4,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Venusaur",
+        "calidad": "",
+        "vida": 70,
+        "daño": 11,
+        "defensa": 6,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Charmander",
+        "calidad": "",
+        "vida": 80,
+        "daño": 14,
+        "defensa": 8,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Charmeleon",
+        "calidad": "",
+        "vida": 90,
+        "daño": 17,
+        "defensa": 10,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Charizard",
+        "calidad": "",
+        "vida": 100,
+        "daño": 20,
+        "defensa": 12,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Squirtle",
+        "calidad": "",
+        "vida": 110,
+        "daño": 23,
+        "defensa": 2,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Wartortle",
+        "calidad": "",
+        "vida": 120,
+        "daño": 26,
+        "defensa": 4,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Blastoise",
+        "calidad": "",
+        "vida": 130,
+        "daño": 5,
+        "defensa": 6,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Caterpie",
+        "calidad": "",
+        "vida": 140,
+        "daño": 8,
+        "defensa": 8,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Metapod",
+        "calidad": "",
+        "vida": 50,
+        "daño": 11,
+        "defensa": 10,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Butterfree",
+        "calidad": "",
+        "vida": 60,
+        "daño": 14,
+        "defensa": 12,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Weedle",
+        "calidad": "",
+        "vida": 70,
+        "daño": 17,
+        "defensa": 2,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Kakuna",
+        "calidad": "",
+        "vida": 80,
+        "daño": 20,
+        "defensa": 4,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Beedrill",
+        "calidad": "",
+        "vida": 90,
+        "daño": 23,
+        "defensa": 6,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Pidgey",
+        "calidad": "",
+        "vida": 100,
+        "daño": 26,
+        "defensa": 8,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Pidgeotto",
+        "calidad": "",
+        "vida": 110,
+        "daño": 5,
+        "defensa": 10,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Pidgeot",
+        "calidad": "",
+        "vida": 120,
+        "daño": 8,
+        "defensa": 12,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Rattata",
+        "calidad": "",
+        "vida": 130,
+        "daño": 11,
+        "defensa": 2,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Raticate",
+        "calidad": "",
+        "vida": 140,
+        "daño": 14,
+        "defensa": 4,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Spearow",
+        "calidad": "",
+        "vida": 50,
+        "daño": 17,
+        "defensa": 6,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Fearow",
+        "calidad": "",
+        "vida": 60,
+        "daño": 20,
+        "defensa": 8,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Ekans",
+        "calidad": "",
+        "vida": 70,
+        "daño": 23,
+        "defensa": 10,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Arbok",
+        "calidad": "",
+        "vida": 80,
+        "daño": 26,
+        "defensa": 12,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Pikachu",
+        "calidad": "",
+        "vida": 90,
+        "daño": 5,
+        "defensa": 2,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Raichu",
+        "calidad": "",
+        "vida": 100,
+        "daño": 8,
+        "defensa": 4,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Sandshrew",
+        "calidad": "",
+        "vida": 110,
+        "daño": 11,
+        "defensa": 6,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Sandslash",
+        "calidad": "",
+        "vida": 120,
+        "daño": 14,
+        "defensa": 8,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Nidoran♀",
+        "calidad": "",
+        "vida": 130,
+        "daño": 17,
+        "defensa": 10,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Nidorina",
+        "calidad": "",
+        "vida": 140,
+        "daño": 20,
+        "defensa": 12,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Nidoqueen",
+        "calidad": "",
+        "vida": 50,
+        "daño": 23,
+        "defensa": 2,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Nidoran♂",
+        "calidad": "",
+        "vida": 60,
+        "daño": 26,
+        "defensa": 4,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Nidorino",
+        "calidad": "",
+        "vida": 70,
+        "daño": 5,
+        "defensa": 6,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Nidoking",
+        "calidad": "",
+        "vida": 80,
+        "daño": 8,
+        "defensa": 8,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Clefairy",
+        "calidad": "",
+        "vida": 90,
+        "daño": 11,
+        "defensa": 10,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Clefable",
+        "calidad": "",
+        "vida": 100,
+        "daño": 14,
+        "defensa": 12,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Vulpix",
+        "calidad": "",
+        "vida": 110,
+        "daño": 17,
+        "defensa": 2,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Ninetales",
+        "calidad": "",
+        "vida": 120,
+        "daño": 20,
+        "defensa": 4,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Jigglypuff",
+        "calidad": "",
+        "vida": 130,
+        "daño": 23,
+        "defensa": 6,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Wigglytuff",
+        "calidad": "",
+        "vida": 140,
+        "daño": 26,
+        "defensa": 8,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Zubat",
+        "calidad": "",
+        "vida": 50,
+        "daño": 5,
+        "defensa": 10,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Golbat",
+        "calidad": "",
+        "vida": 60,
+        "daño": 8,
+        "defensa": 12,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Oddish",
+        "calidad": "",
+        "vida": 70,
+        "daño": 11,
+        "defensa": 2,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Gloom",
+        "calidad": "",
+        "vida": 80,
+        "daño": 14,
+        "defensa": 4,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Vileplume",
+        "calidad": "",
+        "vida": 90,
+        "daño": 17,
+        "defensa": 6,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Paras",
+        "calidad": "",
+        "vida": 100,
+        "daño": 20,
+        "defensa": 8,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Parasect",
+        "calidad": "",
+        "vida": 110,
+        "daño": 23,
+        "defensa": 10,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Venonat",
+        "calidad": "",
+        "vida": 120,
+        "daño": 26,
+        "defensa": 12,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Venomoth",
+        "calidad": "",
+        "vida": 130,
+        "daño": 5,
+        "defensa": 2,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Diglett",
+        "calidad": "",
+        "vida": 140,
+        "daño": 8,
+        "defensa": 4,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Dugtrio",
+        "calidad": "",
+        "vida": 50,
+        "daño": 11,
+        "defensa": 6,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Meowth",
+        "calidad": "",
+        "vida": 60,
+        "daño": 14,
+        "defensa": 8,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Persian",
+        "calidad": "",
+        "vida": 70,
+        "daño": 17,
+        "defensa": 10,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Psyduck",
+        "calidad": "",
+        "vida": 80,
+        "daño": 20,
+        "defensa": 12,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Golduck",
+        "calidad": "",
+        "vida": 90,
+        "daño": 23,
+        "defensa": 2,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Mankey",
+        "calidad": "",
+        "vida": 100,
+        "daño": 26,
+        "defensa": 4,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Primeape",
+        "calidad": "",
+        "vida": 110,
+        "daño": 5,
+        "defensa": 6,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Growlithe",
+        "calidad": "",
+        "vida": 120,
+        "daño": 8,
+        "defensa": 8,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Arcanine",
+        "calidad": "",
+        "vida": 130,
+        "daño": 11,
+        "defensa": 10,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Poliwag",
+        "calidad": "",
+        "vida": 140,
+        "daño": 14,
+        "defensa": 12,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Poliwhirl",
+        "calidad": "",
+        "vida": 50,
+        "daño": 17,
+        "defensa": 2,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Poliwrath",
+        "calidad": "",
+        "vida": 60,
+        "daño": 20,
+        "defensa": 4,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Abra",
+        "calidad": "",
+        "vida": 70,
+        "daño": 23,
+        "defensa": 6,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Kadabra",
+        "calidad": "",
+        "vida": 80,
+        "daño": 26,
+        "defensa": 8,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Alakazam",
+        "calidad": "",
+        "vida": 90,
+        "daño": 5,
+        "defensa": 10,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Machop",
+        "calidad": "",
+        "vida": 100,
+        "daño": 8,
+        "defensa": 12,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Machoke",
+        "calidad": "",
+        "vida": 110,
+        "daño": 11,
+        "defensa": 2,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Machamp",
+        "calidad": "",
+        "vida": 120,
+        "daño": 14,
+        "defensa": 4,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Bellsprout",
+        "calidad": "",
+        "vida": 130,
+        "daño": 17,
+        "defensa": 6,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Weepinbell",
+        "calidad": "",
+        "vida": 140,
+        "daño": 20,
+        "defensa": 8,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Victreebel",
+        "calidad": "",
+        "vida": 50,
+        "daño": 23,
+        "defensa": 10,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Tentacool",
+        "calidad": "",
+        "vida": 60,
+        "daño": 26,
+        "defensa": 12,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Tentacruel",
+        "calidad": "",
+        "vida": 70,
+        "daño": 5,
+        "defensa": 2,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Geodude",
+        "calidad": "",
+        "vida": 80,
+        "daño": 8,
+        "defensa": 4,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Graveler",
+        "calidad": "",
+        "vida": 90,
+        "daño": 11,
+        "defensa": 6,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Golem",
+        "calidad": "",
+        "vida": 100,
+        "daño": 14,
+        "defensa": 8,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Ponyta",
+        "calidad": "",
+        "vida": 110,
+        "daño": 17,
+        "defensa": 10,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Rapidash",
+        "calidad": "",
+        "vida": 120,
+        "daño": 20,
+        "defensa": 12,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Slowpoke",
+        "calidad": "",
+        "vida": 130,
+        "daño": 23,
+        "defensa": 2,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Slowbro",
+        "calidad": "",
+        "vida": 140,
+        "daño": 26,
+        "defensa": 4,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Magnemite",
+        "calidad": "",
+        "vida": 50,
+        "daño": 5,
+        "defensa": 6,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Magneton",
+        "calidad": "",
+        "vida": 60,
+        "daño": 8,
+        "defensa": 8,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Farfetch'd",
+        "calidad": "",
+        "vida": 70,
+        "daño": 11,
+        "defensa": 10,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Doduo",
+        "calidad": "",
+        "vida": 80,
+        "daño": 14,
+        "defensa": 12,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Dodrio",
+        "calidad": "",
+        "vida": 90,
+        "daño": 17,
+        "defensa": 2,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Seel",
+        "calidad": "",
+        "vida": 100,
+        "daño": 20,
+        "defensa": 4,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Dewgong",
+        "calidad": "",
+        "vida": 110,
+        "daño": 23,
+        "defensa": 6,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Grimer",
+        "calidad": "",
+        "vida": 120,
+        "daño": 26,
+        "defensa": 8,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Muk",
+        "calidad": "",
+        "vida": 130,
+        "daño": 5,
+        "defensa": 10,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Shellder",
+        "calidad": "",
+        "vida": 140,
+        "daño": 8,
+        "defensa": 12,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Cloyster",
+        "calidad": "",
+        "vida": 50,
+        "daño": 11,
+        "defensa": 2,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Gastly",
+        "calidad": "",
+        "vida": 60,
+        "daño": 14,
+        "defensa": 4,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Haunter",
+        "calidad": "",
+        "vida": 70,
+        "daño": 17,
+        "defensa": 6,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Gengar",
+        "calidad": "",
+        "vida": 80,
+        "daño": 20,
+        "defensa": 8,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Onix",
+        "calidad": "",
+        "vida": 90,
+        "daño": 23,
+        "defensa": 10,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Drowzee",
+        "calidad": "",
+        "vida": 100,
+        "daño": 26,
+        "defensa": 12,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Hypno",
+        "calidad": "",
+        "vida": 110,
+        "daño": 5,
+        "defensa": 2,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Krabby",
+        "calidad": "",
+        "vida": 120,
+        "daño": 8,
+        "defensa": 4,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Kingler",
+        "calidad": "",
+        "vida": 130,
+        "daño": 11,
+        "defensa": 6,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Voltorb",
+        "calidad": "",
+        "vida": 140,
+        "daño": 14,
+        "defensa": 8,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Electrode",
+        "calidad": "",
+        "vida": 50,
+        "daño": 17,
+        "defensa": 10,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Exeggcute",
+        "calidad": "",
+        "vida": 60,
+        "daño": 20,
+        "defensa": 12,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Exeggutor",
+        "calidad": "",
+        "vida": 70,
+        "daño": 23,
+        "defensa": 2,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Cubone",
+        "calidad": "",
+        "vida": 80,
+        "daño": 26,
+        "defensa": 4,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Marowak",
+        "calidad": "",
+        "vida": 90,
+        "daño": 5,
+        "defensa": 6,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Hitmonlee",
+        "calidad": "",
+        "vida": 100,
+        "daño": 8,
+        "defensa": 8,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Hitmonchan",
+        "calidad": "",
+        "vida": 110,
+        "daño": 11,
+        "defensa": 10,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Lickitung",
+        "calidad": "",
+        "vida": 120,
+        "daño": 14,
+        "defensa": 12,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Koffing",
+        "calidad": "",
+        "vida": 130,
+        "daño": 17,
+        "defensa": 2,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Weezing",
+        "calidad": "",
+        "vida": 140,
+        "daño": 20,
+        "defensa": 4,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Rhyhorn",
+        "calidad": "",
+        "vida": 50,
+        "daño": 23,
+        "defensa": 6,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Rhydon",
+        "calidad": "",
+        "vida": 60,
+        "daño": 26,
+        "defensa": 8,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Chansey",
+        "calidad": "",
+        "vida": 70,
+        "daño": 5,
+        "defensa": 10,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Tangela",
+        "calidad": "",
+        "vida": 80,
+        "daño": 8,
+        "defensa": 12,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Kangaskhan",
+        "calidad": "",
+        "vida": 90,
+        "daño": 11,
+        "defensa": 2,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Horsea",
+        "calidad": "",
+        "vida": 100,
+        "daño": 14,
+        "defensa": 4,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Seadra",
+        "calidad": "",
+        "vida": 110,
+        "daño": 17,
+        "defensa": 6,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Goldeen",
+        "calidad": "",
+        "vida": 120,
+        "daño": 20,
+        "defensa": 8,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Seaking",
+        "calidad": "",
+        "vida": 130,
+        "daño": 23,
+        "defensa": 10,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Staryu",
+        "calidad": "",
+        "vida": 140,
+        "daño": 26,
+        "defensa": 12,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Starmie",
+        "calidad": "",
+        "vida": 50,
+        "daño": 5,
+        "defensa": 2,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Mr. Mime",
+        "calidad": "",
+        "vida": 60,
+        "daño": 8,
+        "defensa": 4,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Scyther",
+        "calidad": "",
+        "vida": 70,
+        "daño": 11,
+        "defensa": 6,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Jynx",
+        "calidad": "",
+        "vida": 80,
+        "daño": 14,
+        "defensa": 8,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Electabuzz",
+        "calidad": "",
+        "vida": 90,
+        "daño": 17,
+        "defensa": 10,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Magmar",
+        "calidad": "",
+        "vida": 100,
+        "daño": 20,
+        "defensa": 12,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Pinsir",
+        "calidad": "",
+        "vida": 110,
+        "daño": 23,
+        "defensa": 2,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Tauros",
+        "calidad": "",
+        "vida": 120,
+        "daño": 26,
+        "defensa": 4,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Magikarp",
+        "calidad": "",
+        "vida": 130,
+        "daño": 5,
+        "defensa": 6,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Gyarados",
+        "calidad": "",
+        "vida": 140,
+        "daño": 8,
+        "defensa": 8,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Lapras",
+        "calidad": "",
+        "vida": 50,
+        "daño": 11,
+        "defensa": 10,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Ditto",
+        "calidad": "",
+        "vida": 60,
+        "daño": 14,
+        "defensa": 12,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Eevee",
+        "calidad": "",
+        "vida": 70,
+        "daño": 17,
+        "defensa": 2,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Vaporeon",
+        "calidad": "",
+        "vida": 80,
+        "daño": 20,
+        "defensa": 4,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Jolteon",
+        "calidad": "",
+        "vida": 90,
+        "daño": 23,
+        "defensa": 6,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Flareon",
+        "calidad": "",
+        "vida": 100,
+        "daño": 26,
+        "defensa": 8,
+        "costo_venta": 20
+    },
+    {
+        "nombre": "Porygon",
+        "calidad": "",
+        "vida": 110,
+        "daño": 5,
+        "defensa": 10,
+        "costo_venta": 35
+    },
+    {
+        "nombre": "Omanyte",
+        "calidad": "",
+        "vida": 120,
+        "daño": 8,
+        "defensa": 12,
+        "costo_venta": 50
+    },
+    {
+        "nombre": "Omastar",
+        "calidad": "",
+        "vida": 130,
+        "daño": 11,
+        "defensa": 2,
+        "costo_venta": 65
+    },
+    {
+        "nombre": "Kabuto",
+        "calidad": "",
+        "vida": 140,
+        "daño": 14,
+        "defensa": 4,
+        "costo_venta": 80
+    },
+    {
+        "nombre": "Kabutops",
+        "calidad": "",
+        "vida": 50,
+        "daño": 17,
+        "defensa": 6,
+        "costo_venta": 95
+    },
+    {
+        "nombre": "Aerodactyl",
+        "calidad": "",
+        "vida": 60,
+        "daño": 20,
+        "defensa": 8,
+        "costo_venta": 110
+    },
+    {
+        "nombre": "Snorlax",
+        "calidad": "",
+        "vida": 70,
+        "daño": 23,
+        "defensa": 10,
+        "costo_venta": 125
+    },
+    {
+        "nombre": "Articuno",
+        "calidad": "",
+        "vida": 80,
+        "daño": 26,
+        "defensa": 12,
+        "costo_venta": 140
+    },
+    {
+        "nombre": "Zapdos",
+        "calidad": "",
+        "vida": 90,
+        "daño": 5,
+        "defensa": 2,
+        "costo_venta": 155
+    },
+    {
+        "nombre": "Moltres",
+        "calidad": "",
+        "vida": 100,
+        "daño": 8,
+        "defensa": 4,
+        "costo_venta": 170
+    },
+    {
+        "nombre": "Dratini",
+        "calidad": "",
+        "vida": 110,
+        "daño": 11,
+        "defensa": 6,
+        "costo_venta": 185
+    },
+    {
+        "nombre": "Dragonair",
+        "calidad": "",
+        "vida": 120,
+        "daño": 14,
+        "defensa": 8,
+        "costo_venta": 200
+    },
+    {
+        "nombre": "Dragonite",
+        "calidad": "",
+        "vida": 130,
+        "daño": 17,
+        "defensa": 10,
+        "costo_venta": 215
+    },
+    {
+        "nombre": "Mewtwo",
+        "calidad": "",
+        "vida": 140,
+        "daño": 20,
+        "defensa": 12,
+        "costo_venta": 230
+    },
+    {
+        "nombre": "Mew",
+        "calidad": "",
+        "vida": 50,
+        "daño": 23,
+        "defensa": 2,
+        "costo_venta": 20
+    }
+]

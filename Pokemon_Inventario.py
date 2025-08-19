@@ -18,11 +18,6 @@ class Jugador:
         self.pokemones.append(pokemones)
     def imprimir_dinero(self):
         print(f"Dinero: ${self.dinero}")
-        
-        
-        
-        
-
         #DATOSSSSSSSS
     def guardar(self, archivo="inventario.json"):
         with open(archivo, "w") as f:
@@ -33,7 +28,6 @@ class Jugador:
                 "pokebolas": self.pokebolas
             }, f)
         print("Juego guardado correctamente.")
-
     # Cargar desde archivo JSON
     def cargar(self, archivo="inventario.json"):
         try:
@@ -46,4 +40,3 @@ class Jugador:
             print("Juego cargado correctamente.")
         except FileNotFoundError:
             print("No se encontró archivo de guardado. Se iniciará un juego nuevo.")
-
