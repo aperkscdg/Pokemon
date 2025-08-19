@@ -11,6 +11,7 @@ def menu():
         print("Capturar Pokemon (0): ")
         print("Ver Inventario (1): ")
         print("Tienda (2): ")
+        print("Batallas (3): ")
         Menu = int(input("Seleciones Una Opcion: "))
         if Menu==0:
             return game(menu,mi_jugador)
@@ -20,6 +21,8 @@ def menu():
             continue
         elif Menu==2:
             return tienda(menu,mi_jugador)
+        elif Menu==3:
+            return print("Esto no esta Disponible Por ahora: ")
         else:
             print("no se puede we: ")
             time.sleep(1)
