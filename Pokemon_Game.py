@@ -30,8 +30,6 @@ pokemon_list = [
     "Zapdos", "Moltres", "Dratini", "Dragonair", "Dragonite", "Mewtwo", "Mew"
 ]
 
-#mi_jugador = Jugador()
-
 def game(menu,mi_jugador):
     def nuevo(pokemon_nuevo):
         os.system("cls")
