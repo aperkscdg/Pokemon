@@ -7,6 +7,7 @@ import time
 mi_jugador = Jugador()
 mi_jugador.cargar()
 all_pokemones = Pokemon()
+mi_jugador.guardar()
 def menu():
     while True:
         os.system("cls")

@@ -1,6 +1,10 @@
 import os
 import json
 class Jugador:
+    import os
+import json
+
+class Jugador:
     def __init__(self, dinero=500, pokemones=None, items=None, pokebolas=None):
         self.dinero = dinero
         self.pokemones = pokemones if pokemones is not None else []
@@ -10,12 +14,21 @@ class Jugador:
         os.system("cls")
         print("=== Inventario ===")
         print(f"Dinero: ${self.dinero}")
-        print("Pokemones:", ", ".join(self.pokemones) if self.pokemones else "Ninguno")
+        if self.pokemones:
+            print("Pokemones:")
+            for p in self.pokemones:
+                print(f"- {p['nombre']} | Vida: {p['vida']} | Daño: {p['daño']} | Defensa: {p['defensa']} | Valor: ${p['costo_venta']}")
+        else:
+            print("Pokemones: Ninguno")
         print("Items:", ", ".join(self.items) if self.items else "Ninguno")
         print("Pokébolas:", ", ".join(self.pokebolas) if self.pokebolas else "Ninguna")
         print("=================")
-    def agregar_pokemon(self, pokemones):
-        self.pokemones.append(pokemones)
+        input("Presiona ENTER para volver al menú...")
+
+    def agregar_pokemon(self, pokemon_data):
+        self.pokemones.append(pokemon_data)
+        print(f"{pokemon_data['nombre']} se agregó a tu inventario.")
+
     def imprimir_dinero(self):
         print(f"Dinero: ${self.dinero}")
         #DATOSSSSSSSS
