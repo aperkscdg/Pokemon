@@ -1,7 +1,7 @@
 import os 
 import time
 import random
-from Pokemon_Inventario import Jugador
+
 pokemon_list = [
     "Bulbasaur", "Ivysaur", "Venusaur", "Charmander", "Charmeleon", "Charizard",
     "Squirtle", "Wartortle", "Blastoise", "Caterpie", "Metapod", "Butterfree",

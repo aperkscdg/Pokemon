@@ -1,2 +1,6 @@
+import os
+import time
+import random
 def tienda(menu,mi_jugador):
-    return None
+    os.system("cls")
+    print()

@@ -1,10 +1,4 @@
 import os
-
-
-
-
-
-
 class Jugador:
     def __init__(self, dinero=500, pokemones=None, items=None, pokebolas=None):
         self.dinero = dinero

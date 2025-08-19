@@ -1,15 +1,9 @@
 from Pokemon_Game import game
 from Pokemon_Inventario import Jugador 
 from Pokemon_Tienda import tienda
-
 import os
 import time
-
-global salir
-
 mi_jugador = Jugador()
-
-
 def menu():
     while True:
         os.system("cls")
@@ -29,7 +23,4 @@ def menu():
             print("no se puede we: ")
             time.sleep(1)
             continue
-
-
-
 menu()
