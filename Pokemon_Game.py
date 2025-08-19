@@ -35,11 +35,13 @@ def game(menu,mi_jugador):
         os.system("cls")
         if random.randint(0,100) <= 5:
             mi_jugador.agregar_pokemon(pokemon_nuevo + " " + "(Shiny)")
+            mi_jugador.guardar()
             print("Ahora tienes Un:", pokemon_nuevo + " " + "(Shiny)")
             time.sleep(2)
             menu()
         else:
             mi_jugador.agregar_pokemon(pokemon_nuevo)
+            mi_jugador.guardar()
             print("Ahora Tienes Un: ", pokemon_nuevo)
             time.sleep(2)
             menu()

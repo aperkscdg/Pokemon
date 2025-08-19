@@ -4,6 +4,7 @@ from Pokemon_Tienda import tienda
 import os
 import time
 mi_jugador = Jugador()
+mi_jugador.cargar()
 def menu():
     while True:
         os.system("cls")
